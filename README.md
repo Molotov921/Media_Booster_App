@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+# Demo Recording Of Project
+
+https://github.com/Molotov921/Media_Booster_App/assets/106720289/1e023575-cfb8-448d-a63c-4639889cb65a
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
